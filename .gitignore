@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+umd_dataset/*
+pascal_dataset/*
